@@ -35,3 +35,6 @@ All case studies are fictional. They are not real patient reports, regulatory su
 5. Record missing information and uncertainty rather than inventing facts.
 
 See [REFERENCES.md](REFERENCES.md) for source material.
+
+## Additional module: Severity, Seriousness & Expectedness
+A detailed educational module covering independent severity, seriousness and expectedness classification, India/global reporting context, five fictional worked cases, a reusable worksheet and a decision tree is available in [`severity-seriousness-expectedness/`](severity-seriousness-expectedness/README.md).
